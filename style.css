@@ -72,8 +72,8 @@
 .circle {
     margin-top: 40px;
     background-color: tomato;
-    width: 200px;
-    height: 200px;
+    width: 20%;
+    padding-bottom: 20%;
     border-radius: 50%;
 }
 
@@ -132,7 +132,7 @@
 
 .square-strip {
     height: 300px;
-    width: 250px;
+    width: 20%;
     background-color: red;
     margin-bottom: 50px;
 }
